@@ -7,7 +7,7 @@ public:
             for(int j=0;j<len;j++){
                 if(nums[i]==nums[j]){
                     c++;
-        }
+                }
         }
             if(c!=3){
                 return nums[i];
