@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/KushMishra12/leetcodesolution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -32,4 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
