@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
