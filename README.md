@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/KushMishra12/leetcodesolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 ## Newton's Method
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
