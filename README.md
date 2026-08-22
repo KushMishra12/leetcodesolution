@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
