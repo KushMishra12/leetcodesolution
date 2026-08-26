@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/KushMishra12/leetcodesolution/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
