@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/KushMishra12/leetcodesolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KushMishra12/leetcodesolution/tree/master/1952-three-divisors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
