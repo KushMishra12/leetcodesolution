@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
+| [1313-decompress-run-length-encoded-list](https://github.com/KushMishra12/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Bit Manipulation
