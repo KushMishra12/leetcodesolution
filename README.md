@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/KushMishra12/leetcodesolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
 | [1313-decompress-run-length-encoded-list](https://github.com/KushMishra12/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Divide and Conquer
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Stack
