@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushMishra12/leetcodesolution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
