@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Math
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/KushMishra12/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
