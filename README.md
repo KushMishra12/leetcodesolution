@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/KushMishra12/leetcodesolution/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushMishra12/leetcodesolution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushMishra12/leetcodesolution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/3904-smallest-stable-index-ii) |
