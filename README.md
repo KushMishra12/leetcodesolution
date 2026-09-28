@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/KushMishra12/leetcodesolution/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/KushMishra12/leetcodesolution/tree/master/0492-construct-the-rectangle) |
+| [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1323-maximum-69-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KushMishra12/leetcodesolution/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
