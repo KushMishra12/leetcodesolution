@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/KushMishra12/leetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/KushMishra12/leetcodesolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,10 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Pigeonhole Principle
 |  |
 | ------- |
