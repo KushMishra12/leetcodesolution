@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
