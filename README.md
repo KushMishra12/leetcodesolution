@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KushMishra12/leetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KushMishra12/leetcodesolution/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushMishra12/leetcodesolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
