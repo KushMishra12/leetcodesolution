@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/KushMishra12/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushMishra12/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/KushMishra12/leetcodesolution/tree/master/1534-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/KushMishra12/leetcodesolution/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/KushMishra12/leetcodesolution/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prime Factorization
