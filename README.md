@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushMishra12/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/KushMishra12/leetcodesolution/tree/master/1534-count-good-triplets) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/KushMishra12/leetcodesolution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/KushMishra12/leetcodesolution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Divide and Conquer
 |  |
