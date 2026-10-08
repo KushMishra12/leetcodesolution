@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/KushMishra12/leetcodesolution/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/KushMishra12/leetcodesolution/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/KushMishra12/leetcodesolution/tree/master/1534-count-good-triplets) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/KushMishra12/leetcodesolution/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
