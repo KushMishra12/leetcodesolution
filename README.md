@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/KushMishra12/leetcodesolution/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushMishra12/leetcodesolution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/KushMishra12/leetcodesolution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
