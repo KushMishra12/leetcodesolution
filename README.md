@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/KushMishra12/leetcodesolution/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/KushMishra12/leetcodesolution/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/0258-add-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/KushMishra12/leetcodesolution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/KushMishra12/leetcodesolution/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KushMishra12/leetcodesolution/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KushMishra12/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
