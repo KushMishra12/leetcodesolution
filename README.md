@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KushMishra12/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/KushMishra12/leetcodesolution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1323-maximum-69-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
