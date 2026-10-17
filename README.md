@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KushMishra12/leetcodesolution/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/KushMishra12/leetcodesolution/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/KushMishra12/leetcodesolution/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KushMishra12/leetcodesolution/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/KushMishra12/leetcodesolution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/KushMishra12/leetcodesolution/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
