@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/KushMishra12/leetcodesolution/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1323-maximum-69-number) |
