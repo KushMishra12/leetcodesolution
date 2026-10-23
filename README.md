@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KushMishra12/leetcodesolution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KushMishra12/leetcodesolution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/KushMishra12/leetcodesolution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/KushMishra12/leetcodesolution/tree/master/0704-binary-search) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/KushMishra12/leetcodesolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/KushMishra12/leetcodesolution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KushMishra12/leetcodesolution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KushMishra12/leetcodesolution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KushMishra12/leetcodesolution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Euclidean Algorithm
 |  |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
