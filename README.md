@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/KushMishra12/leetcodesolution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KushMishra12/leetcodesolution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushMishra12/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/KushMishra12/leetcodesolution/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KushMishra12/leetcodesolution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/KushMishra12/leetcodesolution/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KushMishra12/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/KushMishra12/leetcodesolution/tree/master/1518-water-bottles) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KushMishra12/leetcodesolution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Number Theory
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/KushMishra12/leetcodesolution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
