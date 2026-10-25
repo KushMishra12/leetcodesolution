@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/KushMishra12/leetcodesolution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/KushMishra12/leetcodesolution/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KushMishra12/leetcodesolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushMishra12/leetcodesolution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/KushMishra12/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KushMishra12/leetcodesolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KushMishra12/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushMishra12/leetcodesolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1480-running-sum-of-1d-array) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KushMishra12/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KushMishra12/leetcodesolution/tree/master/0100-same-tree) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KushMishra12/leetcodesolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
