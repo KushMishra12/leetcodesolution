@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/KushMishra12/leetcodesolution/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2942-find-words-containing-character](https://github.com/KushMishra12/leetcodesolution/tree/master/2942-find-words-containing-character) |
+| [3798-largest-even-number](https://github.com/KushMishra12/leetcodesolution/tree/master/3798-largest-even-number) |
 ## Binary Search
 |  |
 | ------- |
