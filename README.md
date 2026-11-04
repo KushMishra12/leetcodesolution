@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/KushMishra12/leetcodesolution/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/KushMishra12/leetcodesolution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KushMishra12/leetcodesolution/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/KushMishra12/leetcodesolution/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/KushMishra12/leetcodesolution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/KushMishra12/leetcodesolution/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KushMishra12/leetcodesolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KushMishra12/leetcodesolution/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/KushMishra12/leetcodesolution/tree/master/0374-guess-number-higher-or-lower) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
