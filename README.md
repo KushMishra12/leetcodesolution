@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KushMishra12/leetcodesolution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/KushMishra12/leetcodesolution/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/KushMishra12/leetcodesolution/tree/master/2652-sum-multiples) |
+| [2864-maximum-odd-binary-number](https://github.com/KushMishra12/leetcodesolution/tree/master/2864-maximum-odd-binary-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/KushMishra12/leetcodesolution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushMishra12/leetcodesolution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/KushMishra12/leetcodesolution/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2864-maximum-odd-binary-number](https://github.com/KushMishra12/leetcodesolution/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/KushMishra12/leetcodesolution/tree/master/2942-find-words-containing-character) |
 | [3798-largest-even-number](https://github.com/KushMishra12/leetcodesolution/tree/master/3798-largest-even-number) |
 ## Binary Search
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/KushMishra12/leetcodesolution/tree/master/1323-maximum-69-number) |
+| [2864-maximum-odd-binary-number](https://github.com/KushMishra12/leetcodesolution/tree/master/2864-maximum-odd-binary-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
