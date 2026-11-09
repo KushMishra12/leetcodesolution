@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/KushMishra12/leetcodesolution/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KushMishra12/leetcodesolution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/KushMishra12/leetcodesolution/tree/master/1313-decompress-run-length-encoded-list) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushMishra12/leetcodesolution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KushMishra12/leetcodesolution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -346,10 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KushMishra12/leetcodesolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KushMishra12/leetcodesolution/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KushMishra12/leetcodesolution/tree/master/0100-same-tree) |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KushMishra12/leetcodesolution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
@@ -365,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/KushMishra12/leetcodesolution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/KushMishra12/leetcodesolution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KushMishra12/leetcodesolution/tree/master/0876-middle-of-the-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/KushMishra12/leetcodesolution/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
