@@ -9,7 +9,7 @@
  * };
  */
 class Solution {
-    private:
+public:
 bool checkpali(vector<int>v){
     int n=v.size();
     int s=0;
@@ -24,7 +24,6 @@ bool checkpali(vector<int>v){
     return true;
 
 }
-public:
     bool isPalindrome(ListNode* head) {
         vector<int>v;
         ListNode* temp=head;
