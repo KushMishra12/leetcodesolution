@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KushMishra12/leetcodesolution/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/KushMishra12/leetcodesolution/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/KushMishra12/leetcodesolution/tree/master/1207-unique-number-of-occurrences) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/KushMishra12/leetcodesolution/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/KushMishra12/leetcodesolution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/KushMishra12/leetcodesolution/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/KushMishra12/leetcodesolution/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/KushMishra12/leetcodesolution/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/KushMishra12/leetcodesolution/tree/master/1108-defanging-an-ip-address) |
 | [1556-thousand-separator](https://github.com/KushMishra12/leetcodesolution/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KushMishra12/leetcodesolution/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushMishra12/leetcodesolution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KushMishra12/leetcodesolution/tree/master/0704-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/KushMishra12/leetcodesolution/tree/master/0804-unique-morse-code-words) |
 | [0922-sort-array-by-parity-ii](https://github.com/KushMishra12/leetcodesolution/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KushMishra12/leetcodesolution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/KushMishra12/leetcodesolution/tree/master/1051-height-checker) |
