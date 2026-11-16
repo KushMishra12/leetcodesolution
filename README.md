@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KushMishra12/leetcodesolution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/KushMishra12/leetcodesolution/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/KushMishra12/leetcodesolution/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/KushMishra12/leetcodesolution/tree/master/2942-find-words-containing-character) |
 | [3798-largest-even-number](https://github.com/KushMishra12/leetcodesolution/tree/master/3798-largest-even-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/KushMishra12/leetcodesolution/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/KushMishra12/leetcodesolution/tree/master/1518-water-bottles) |
 | [2073-time-needed-to-buy-tickets](https://github.com/KushMishra12/leetcodesolution/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/KushMishra12/leetcodesolution/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
