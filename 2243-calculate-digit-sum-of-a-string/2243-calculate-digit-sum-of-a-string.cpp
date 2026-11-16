@@ -3,22 +3,30 @@ class Solution {
 public:
     string digitSum(string s, int k) {
 
-        while(s.length() > k) {
+        while(s.size() > k) {
 
-            string ans = "";
+            string str = "";
+            int sum = 0;
+            int c = 0;
 
-            for(int i = 0; i < s.length(); i += k) {
+            for(int i = 0; i < s.size(); i++) {
 
-                int sum = 0;
+                sum += s[i] - '0';
+                c++;
 
-                for(int j = i; j < min(i + k, (int)s.length()); j++) {
-                    sum += s[j] - '0';
+                if(c == k) {
+                    str += to_string(sum);
+                    sum = 0;
+                    c = 0;
                 }
-
-                ans += to_string(sum);
             }
 
-            s = ans;
+            // Handle remaining digits
+            if(c > 0) {
+                str += to_string(sum);
+            }
+
+            s = str;
         }
 
         return s;
