@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushMishra12/leetcodesolution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/KushMishra12/leetcodesolution/tree/master/2864-maximum-odd-binary-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/KushMishra12/leetcodesolution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/KushMishra12/leetcodesolution/tree/master/2942-find-words-containing-character) |
 | [3798-largest-even-number](https://github.com/KushMishra12/leetcodesolution/tree/master/3798-largest-even-number) |
 ## Binary Search
