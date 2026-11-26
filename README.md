@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushMishra12/leetcodesolution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KushMishra12/leetcodesolution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KushMishra12/leetcodesolution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/KushMishra12/leetcodesolution/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KushMishra12/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KushMishra12/leetcodesolution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KushMishra12/leetcodesolution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/KushMishra12/leetcodesolution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KushMishra12/leetcodesolution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/KushMishra12/leetcodesolution/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/KushMishra12/leetcodesolution/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
